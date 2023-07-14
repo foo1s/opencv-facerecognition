@@ -1,0 +1,2 @@
+# opencv-facerecognition
+基于CNN卷积神经网络与opencv的面部识别
